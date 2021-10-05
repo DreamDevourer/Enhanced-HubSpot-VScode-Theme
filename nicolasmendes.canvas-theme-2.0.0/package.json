@@ -1,0 +1,45 @@
+{
+	"name": "enhanced-canvas-theme",
+	"version": "2.0.0",
+	"displayName": "Enhanced Canvas Theme",
+	"description": "An updated and enhanced version of the original HubSpot Canvas theme for VSCode.",
+	"publisher": "Nicolas Mendes",
+	"license": "MIT",
+	"icon": "images/logo.png",
+	"scripts": {
+		"start": "nodemon --exec vsce package",
+		"release": "release-it && npx vsce publish",
+		"release:test": "release-it --dry-run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DreamDevourer/Enhanced-HubSpot-VScode-Theme"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"galleryBanner": {
+		"color": "#2d3e50",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "EnhancedCanvas",
+				"uiTheme": "vs-dark",
+				"path": "./themes/canvas-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.9",
+		"release-it": "^10.0.7"
+	}
+}
