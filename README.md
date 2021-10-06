@@ -23,6 +23,9 @@
 <img src="./nicolasmendes.canvas-theme-2.0.0/images/SamplePython.svg" alt="Theme sample running on VSCode." width="100%" height="auto"></img>
 
 ## Free and Open Source Theme
+
+This is a community made theme, and not an official HubSpot made thing, feel free to join development.
+
 This theme is almost a remake of the original theme, because this was made from scratch with new theme syntax template to match current standards of new VSCode versions. Of course this theme concept and idea was made by pwilver12 and published by hatreeksbergermon, I simply updated it with a couple improvements.
 
 
