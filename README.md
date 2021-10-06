@@ -2,11 +2,19 @@
 
 <p align="center">
   An updated and enhanced version of HubSpot Canvas theme for Visual Studio Code.
+</p>
 
-  [![Version](https://vsmarketplacebadge.apphb.com/version/NicolasMendes.enhanced-canvas-theme.svg)](https://marketplace.visualstudio.com/items?itemName=NicolasMendes.enhanced-canvas-theme)
+<div align="center">
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/NicolasMendes.enhanced-canvas-theme.svg)](https://marketplace.visualstudio.com/items?itemName=NicolasMendes.enhanced-canvas-theme)
+
+</div>
+
+<div align="center">
+
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/NicolasMendes.enhanced-canvas-theme.svg?subject=Installs&colorA=2d3e50&colorB=ff7a59)](https://marketplace.visualstudio.com/items?itemName=NicolasMendes.enhanced-canvas-theme)
 
-</p>
+</div>
 
 <p align="center">
   <a href="./LICENSE">License</a>
