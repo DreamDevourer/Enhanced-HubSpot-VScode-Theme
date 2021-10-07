@@ -20,7 +20,7 @@
   <a href="./LICENSE">License</a>
 </p>
 
-<img src="./nicolasmendes.canvas-theme-2.0.0/images/SamplePython.svg" alt="Theme sample running on VSCode." width="100%" height="auto"></img>
+<img src="./nicolasmendes.enhanced-canvas-theme/images/SamplePython.svg" alt="Theme sample running on VSCode." width="100%" height="auto"></img>
 
 ## Free and Open Source Theme
 
