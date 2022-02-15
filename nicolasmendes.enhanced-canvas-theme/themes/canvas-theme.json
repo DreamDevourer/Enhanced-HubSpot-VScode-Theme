@@ -315,7 +315,7 @@
       "name": "css property-name",
       "scope": "support.type.vendored.property-name.css",
       "settings": {
-        "foreground": "#7fded2"
+        "foreground": "#f5c26b"
       }
     },
     {
