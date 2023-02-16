@@ -1,10 +1,10 @@
 {
 	"name": "enhanced-canvas-theme",
-	"version": "2.2.0",
+	"version": "2.2.1",
 	"displayName": "Enhanced Canvas Theme",
-	"description": "An updated and enhanced version of the original HubSpot Canvas theme for VSCode.",
+	"description": "Enhanced version of the original HubSpot Canvas theme for VSCode.",
 	"publisher": "NicolasMendes",
-	"license": "MIT",
+	"license": "GNU GPL3",
 	"icon": "images/logo.png",
 	"scripts": {
 		"start": "nodemon --exec vsce package",
@@ -41,5 +41,8 @@
 	"devDependencies": {
 		"nodemon": "^1.18.9",
 		"release-it": "^10.0.7"
+	},
+	"sponsor": {
+		"url": "https://github.com/sponsors/DreamDevourer"
 	}
 }
